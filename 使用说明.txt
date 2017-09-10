@@ -1,0 +1,12 @@
+使用说明
+
+1. 全局安装webpack
+	npm install webpack -g
+	
+2. 安装依赖
+	npm install
+	
+3. 预览查看
+	npm run dev
+  
+
